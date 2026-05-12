@@ -101,3 +101,15 @@ python main.py
 # Notes
 
 This project was developed for educational and practical purposes, focusing on monitoring, automation, and cybersecurity-related scripting.
+
+## macOS Notes
+
+macOS may require elevated privileges to access active network connection data.
+
+If you receive a `psutil.AccessDenied` error, run:
+
+```bash
+sudo python3 main.py
+```
+
+When typing your password in the terminal, characters will not appear on screen. This is normal behavior on Unix-based systems.
