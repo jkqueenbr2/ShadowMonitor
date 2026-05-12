@@ -1,7 +1,4 @@
 # ShadowMonitor
-Lightweight SOC monitoring simulator built with Python
-
-# ShadowMonitor
 
 Lightweight SOC monitoring simulator built with Python.
 
@@ -98,12 +95,6 @@ python main.py
 - Advanced terminal dashboard
 - Multi-threaded monitoring
 - Exportable reports
-
----
-
-# Screenshot
-
-Add your terminal screenshot here.
 
 ---
 
