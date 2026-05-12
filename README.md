@@ -47,7 +47,7 @@ The main objective of this project is to strengthen practical skills related to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/pro/ShadowMonitor.git
+git clone https://github.com/jkqueenbr2/ShadowMonitor
 ```
 
 Enter the project directory:
